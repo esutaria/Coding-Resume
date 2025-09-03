@@ -3,13 +3,13 @@ title: Eesha Sutaria
 layout: default
 ---
 
-# 👩‍💻 Eesha Sutaria  
+# Eesha Sutaria  
 **Software Developer | Innovator | Problem Solver**  
-📧 eeshasutaria@gmail.com
+eeshasutaria@gmail.com
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### 🔹 Jamf Software Engineering Intern (2025)
 - Wrote PACT tests for a backend scrum team using Jamf School.
@@ -27,7 +27,7 @@ layout: default
 
 ---
 
-## 🚀 Passion Projects
+## Passion Projects
 
 ### 🔸 [S.A.R.A.H – Hazard Detection for the Visually Impaired](https://youtu.be/WMObGMByjl4)
 - Voice-assisted cane with computer vision + ML.
@@ -41,7 +41,7 @@ layout: default
 
 ---
 
-## 📚 Education & Courses
+## Education & Courses
 
 - **AP Computer Science A** (2022–2023) – Scored 5  
   *Object-Oriented Programming in Java*
@@ -54,12 +54,12 @@ layout: default
 
 - **Girls Who Code** (2023)  
   *Game design, data science, cybersecurity, web dev*  
-  - [🎮 My Game](https://hq.girlswhocode.com/project-gallery/17008)  
-  - [💰 Finance Project](https://hq.girlswhocode.com/project-gallery/17546)
+  - [My Game](https://hq.girlswhocode.com/project-gallery/17008)  
+  - [Finance Project](https://hq.girlswhocode.com/project-gallery/17546)
 
 ---
 
-## 🌐 Links
+## Links
 
-- 🔗 [GitHub](https://github.com/esutaria)
-- 📧 eeshasutaria@gmail.com
+- [GitHub](https://github.com/esutaria)
+- eeshasutaria@gmail.com
