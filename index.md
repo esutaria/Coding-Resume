@@ -29,11 +29,11 @@ layout: default
 
 ## 🚀 Passion Projects
 
-### 🔸 **[S.A.R.A.H – Hazard Detection for the Visually Impaired](https://youtu.be/WMObGMByjl4)
+### 🔸 [S.A.R.A.H – Hazard Detection for the Visually Impaired](https://youtu.be/WMObGMByjl4)
 - Voice-assisted cane with computer vision + ML.
 - Detects hazards and answers questions to improve environmental awareness.
 
-### 🔸 **[ProductivityPro](https://youtu.be/AGzlKIW3VJA)
+### 🔸 [ProductivityPro](https://youtu.be/AGzlKIW3VJA)
 - Android app built with Android Studio to help users stay productive.
 
 ### 🔸 The Technotizer
